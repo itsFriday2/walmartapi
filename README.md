@@ -9,6 +9,7 @@ Requires:
 
 python 3.x (I use 3.7.1)
 requests (py -m pip install requests)
+walmart labs API key (you can request one for free on the walmartlabs website).
 
 Before using you need to edit it:
 
