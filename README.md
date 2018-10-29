@@ -7,9 +7,9 @@ script for testing the official Walmart API (walmart labs)
 
 Requires:
 
-python 3.x (I use 3.7.1)
-requests (py -m pip install requests)
-walmart labs API key (you can request one for free on the walmartlabs website).
+1.  python 3.x (I use 3.7.1)
+2.  requests module (py -m pip install requests)
+3.  walmart labs API key (you can request one for free on the walmartlabs website).
 
 Before using you need to edit it:
 
